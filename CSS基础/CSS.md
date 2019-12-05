@@ -1,7 +1,7 @@
 <!-- TOC -->
 # CSS基础目录
 
-- [1. CSS(Cascading Style Sheets)](#1-css(cascading-style-sheets))
+- [1. CSS(Cascading Style Sheets)](#1-csscascading-style-sheets)
 - [2. 引入CSS样式表（书写位置）](#2-引入css样式表书写位置)
   - [2.1. 嵌入式:内部样式表](#21-嵌入式内部样式表)
   - [2.2. 行内式:内联样式](#22-行内式内联样式)
