@@ -212,7 +212,7 @@
   - [32.11. `transform`3D变形(CSS3)](#3211-transform3d变形css3)
     - [32.11.1. `rotateX()`](#32111-rotatex)
     - [32.11.2. `rotateY()`](#32112-rotatey)
-    - [32.11.3. `rotateZ()`](#32113-rotatez)
+    - [32.11.3. `rotateZ()`](#32113-rotatez)
     - [32.11.4. 视距 (`perspective`)](#32114-视距-perspective)
     - [32.11.5. `translateX(x)`](#32115-translatexx)
     - [32.11.6. `translateY(y)`](#32116-translateyy)
