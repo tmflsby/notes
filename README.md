@@ -22,3 +22,7 @@
 ## jQuery
 
 - [jQuery](./jQuery/jQuery.md)
+
+## Canvas
+
+- [Canvas](./Canvas/Canvas.md)
