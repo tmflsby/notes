@@ -26,3 +26,7 @@
 ## Canvas
 
 - [Canvas](./Canvas/Canvas.md)
+
+## Ajax
+
+- [Ajax](./Ajax/Ajax.md)
