@@ -11,3 +11,7 @@
 ## JavaScript
 
 [JavaScript相关文章](./JavaScript相关文章/JavaScript相关文章.md)
+
+## ES6
+
+[ES6相关文章](./ES6相关文章/ES6相关文章.md)
