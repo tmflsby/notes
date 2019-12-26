@@ -5,3 +5,5 @@
 ## [JavaScript数据类型转换](./JavaScript数据类型转换/JavaScript数据类型转换.md)
 
 ## [深入理解JavaScript作用域和作用域链](./深入理解JavaScript作用域和作用域链/深入理解JavaScript作用域和作用域链.md)
+
+## [深入理解JavaScript执行上下文和执行栈](./深入理解JavaScript执行上下文和执行栈/深入理解JavaScript执行上下文和执行栈.md)
