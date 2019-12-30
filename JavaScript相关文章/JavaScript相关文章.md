@@ -7,3 +7,5 @@
 ## [深入理解JavaScript作用域和作用域链](./深入理解JavaScript作用域和作用域链/深入理解JavaScript作用域和作用域链.md)
 
 ## [深入理解JavaScript执行上下文和执行栈](./深入理解JavaScript执行上下文和执行栈/深入理解JavaScript执行上下文和执行栈.md)
+
+## [细说数组常用遍历的方法](./细说数组常用遍历的方法/细说数组常用遍历的方法.md)
