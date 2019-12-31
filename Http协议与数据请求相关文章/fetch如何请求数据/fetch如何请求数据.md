@@ -18,7 +18,8 @@ xhr.onreadystatechange = function() {
         if(xhr.status==200){
             var data=xhr.responseText;
              console.log(data);
-   }
+        }
+    }
 };
 xhr.onerror = function() {
   console.log("Oh, error");
@@ -108,7 +109,7 @@ function getJson(){
 
 ### 3.fetch请求网络接口
 
-获取https://api.github.com/users中的数据，做法与获取本地JSON的方法类似,得到数据后，同样要经过处理
+获取[https://api.github.com/users](https://api.github.com/users)中的数据，做法与获取本地JSON的方法类似,得到数据后，同样要经过处理
 
 ```javascript
 document.getElementById('button3').addEventListener('click',getExternal);
