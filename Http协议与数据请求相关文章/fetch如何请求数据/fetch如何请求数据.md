@@ -19,7 +19,7 @@ xhr.onreadystatechange = function() {
             var data=xhr.responseText;
              console.log(data);
         }
-    }
+   }
 };
 xhr.onerror = function() {
   console.log("Oh, error");
