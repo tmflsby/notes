@@ -15,3 +15,5 @@
 ## [深入浅出Javascript闭包](./深入浅出Javascript闭包/深入浅出Javascript闭包.md)
 
 ## [JavaScript中this问题](./JavaScript中this问题/JavaScript中this问题.md)
+
+## [原型与原型链详解](./原型与原型链详解/原型与原型链详解.md)
