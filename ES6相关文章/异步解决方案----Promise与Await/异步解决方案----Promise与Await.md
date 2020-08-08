@@ -18,7 +18,7 @@ Promise中有几个状态：
 >
 > rejected: 失败的操作。
 
-![Promise的原理](./images/Promise的原理.webp)
+![Promise的原理](./images/Promise的原理.png)
 
 `pending可以转化为fulfilled或rejected并且只能转化一次，也就是说如果pending转化到fulfilled状态，那么就不能再转化到rejected。并且fulfilled和rejected状态只能由pending转化而来，两者之间不能互相转换。`
 
