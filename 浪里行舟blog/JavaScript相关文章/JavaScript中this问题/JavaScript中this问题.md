@@ -4,7 +4,7 @@
 
 this关键字是JavaScript中最复杂的机制之一。它是一个很特别的关键字，被自动定义在所有函数的作用域中。对于那些没有投入时间学习this机制的JavaScript开发者来说，this的绑定一直是一件非常令人困惑的事。
 
-![this思维导图](./images/this思维导图.png)
+![this思维导图](images/this思维导图.png)
 
 ## 二、了解this
 
@@ -193,7 +193,7 @@ let b = a.fn
 b.bind(a, 1, 2)
 ```
 
-![bind结果](./images/bind结果.png)
+![bind结果](images/bind结果.png)
 
 上述代码没有执行，bind返回改变了上下文的一个函数，我们必须要手动去调用：
 
@@ -242,7 +242,7 @@ let obj = {
 </script>
 ```
 
-![箭头函数的this](./images/箭头函数的this.png)
+![箭头函数的this](images/箭头函数的this.png)
 
 那假如上一层并不存在函数，this指向又是谁？
 
@@ -264,7 +264,7 @@ let obj = {
 </script>
 ```
 
-![箭头函数上一层this](./images/箭头函数上一层this.png)
+![箭头函数上一层this](images/箭头函数上一层this.png)
 
 上例中，虽然存在两个箭头函数，其实this取决于最外层的箭头函数,由于obj是个对象而非函数，所以this指向为Window对象
 
